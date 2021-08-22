@@ -1,0 +1,12 @@
+a=10
+b=12.56
+c="hello"
+d=151/3
+e=True
+e=False
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(type(a))

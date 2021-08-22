@@ -1,0 +1,6 @@
+a=input("Enter your name: ")
+b=input("Enter today's date: ")
+c=("Dear name you are selected date")
+c=c.replace("name",a)
+c=c.replace("date",b)
+print(c)

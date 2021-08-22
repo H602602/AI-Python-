@@ -1,0 +1,7 @@
+a=(2,34,78,9,47,67,39)
+print(a.index(2))
+print(max(a))
+print(min(a))
+print(len(a))
+print(a.count(2))
+print(sum(a))

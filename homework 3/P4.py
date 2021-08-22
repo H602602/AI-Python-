@@ -1,0 +1,8 @@
+sets=set()
+sets.add(20)
+print(sets)
+sets.add(20.0)
+print(sets)
+sets.add("20")
+print(sets)
+print(len(sets))
