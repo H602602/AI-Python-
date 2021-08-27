@@ -1,3 +1,3 @@
 a=int(input("enter a number"))
-b=2
+b=int(input("Enter one more number"))
 print(a%b)
