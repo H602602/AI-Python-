@@ -1,7 +1,7 @@
 import random
 game=["rock","paper","scissor"]
-x=input("Enter start to start game")
-if x=="start":
+x=input("Enter anything to start game")
+if x==x:
     print("Starting game....")
 b=input("Enter what you want scissor,rock or paper: ")
 game2=random.choice(game)
